@@ -1,0 +1,1 @@
+# LecturaBarcode27Char
